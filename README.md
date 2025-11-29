@@ -32,7 +32,7 @@ Focada em responder "Quem são os melhores?".
     * Cartões de KPI destacando o valor máximo vendido.
     * Gráficos de barra focados exclusivamente no **TOP 3** (Países e Produtos), facilitando a tomada de decisão rápida.
 
-![Global Sales Dashboard](image_48c41c.png)
+![Global Sales Dashboard](report_topn_details.png)
 
 ### 2. Detalhes de Vendas (Visão Granular)
 Focada na análise temporal e distribuição.
@@ -41,7 +41,7 @@ Focada na análise temporal e distribuição.
     * Histograma ("Buckets") para analisar a frequência de faixas de vendas.
     * Matriz comparativa de vendas trimestrais (Ano x Ano).
 
-![Detalhes de Vendas](image_48c45d.png)
+![Detalhes de Vendas](report_details_sales.png)
 
 ---
 
